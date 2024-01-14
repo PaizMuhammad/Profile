@@ -12,7 +12,6 @@ body {
     color: #fff;
     text-align: center;
     padding: 1em 0;
-    text-shadow: 0 0 50px #06f83a, 0 0 10px #03f717;
     border-bottom: solid 8px #18f0fc;
   }
   nav{
@@ -66,4 +65,10 @@ body {
 details:hover{
   color: #0d7910;
   transition: all 3s;
+}
+h1{
+  background: linear-gradient(660deg, #00ffff,#ff00c3);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
