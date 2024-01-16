@@ -24,7 +24,7 @@ body {
     color: #faf8f8;
     margin: 0 1em;
     text-shadow:  0 0 20px #f105d2, 0 0 10px #e607e6;
-    font-size: large;
+    font-size: 18px;
   }
   
   section {
@@ -71,4 +71,5 @@ h1{
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-size: 45px;
 }
