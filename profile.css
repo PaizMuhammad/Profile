@@ -63,7 +63,7 @@ body {
   filter: grayscale(0%);
 }
 details:hover{
-  color: #0d7910;
+  color: #0ff517;
   transition: all 3s;
 }
 h1{
